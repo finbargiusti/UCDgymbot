@@ -1,0 +1,1090 @@
+1633350346243	geckodriver	INFO	geckodriver 0.19.1
+1633350346249	geckodriver	INFO	Listening on 127.0.0.1:45961
+1633350454610	geckodriver	INFO	geckodriver 0.19.1
+1633350454615	geckodriver	INFO	Listening on 127.0.0.1:45453
+1633350455712	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.LBslvI0TlbQF"
+*** You are running in headless mode.
+1633350456223	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1633350457281	Marionette	INFO	Listening on port 43977
+Exiting due to channel error.
+Exiting due to channel error.
+1633350483036	geckodriver	INFO	geckodriver 0.19.1
+1633350483050	geckodriver	INFO	Listening on 127.0.0.1:32865
+1633350484150	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.washhAO5qDcn"
+*** You are running in headless mode.
+1633350484638	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1633350485662	Marionette	INFO	Listening on port 34349
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1633350516366	geckodriver	INFO	geckodriver 0.19.1
+1633350516371	geckodriver	INFO	Listening on 127.0.0.1:39233
+1633350517460	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.MOLiiJC1CT8r"
+*** You are running in headless mode.
+1633350517846	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1633350518923	Marionette	INFO	Listening on port 45639
+Exiting due to channel error.
+Exiting due to channel error.
+1633359019616	geckodriver	INFO	Listening on 127.0.0.1:59093
+1633359019624	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileiw8TDY"
+1633359020410	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiw8TDY/search.json.mozlz4", (void 0)))
+1633359021690	Marionette	INFO	Listening on port 40219
+1633359021747	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 177: TypeError: this._element is null
+1633359031039	Marionette	INFO	Stopped listening on port 40219
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633359114164	geckodriver	INFO	Listening on 127.0.0.1:52195
+1633359114171	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileQo2bLp"
+1633359114960	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQo2bLp/search.json.mozlz4", (void 0)))
+1633359116225	Marionette	INFO	Listening on port 38117
+1633359116295	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 177: TypeError: this._element is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 177: TypeError: this._element is null
+1633359266057	geckodriver	INFO	Listening on 127.0.0.1:36967
+1633359266064	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileHCgrmI"
+1633359266842	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHCgrmI/search.json.mozlz4", (void 0)))
+1633359268301	Marionette	INFO	Listening on port 34815
+1633359268387	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1633359348068	Marionette	INFO	Stopped listening on port 34815
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633359352630	Marionette	INFO	Stopped listening on port 38117
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633359452477	geckodriver	INFO	Listening on 127.0.0.1:50289
+1633359452484	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile74lIjE"
+1633359453250	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile74lIjE/search.json.mozlz4", (void 0)))
+1633359454623	Marionette	INFO	Listening on port 41535
+1633359454708	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1633359464450	Marionette	INFO	Stopped listening on port 41535
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633360028266	geckodriver	INFO	Listening on 127.0.0.1:48683
+1633360028272	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile66UAFa"
+1633360029027	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile66UAFa/search.json.mozlz4", (void 0)))
+1633360030341	Marionette	INFO	Listening on port 45505
+1633360030395	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1633360068404	geckodriver	INFO	Listening on 127.0.0.1:48761
+1633360068411	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileQdANeT"
+1633360069190	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQdANeT/search.json.mozlz4", (void 0)))
+1633360070727	Marionette	INFO	Listening on port 45107
+1633360070858	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1633360235867	geckodriver	INFO	Listening on 127.0.0.1:38639
+1633360235874	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileYYeD2N"
+1633360236614	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYYeD2N/search.json.mozlz4", (void 0)))
+1633360238234	Marionette	INFO	Listening on port 35463
+1633360238296	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1633360268478	geckodriver	INFO	Listening on 127.0.0.1:48525
+1633360268485	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileNTTOgJ"
+1633360269238	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNTTOgJ/search.json.mozlz4", (void 0)))
+1633360270727	Marionette	INFO	Listening on port 42697
+1633360270807	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1633360319635	geckodriver	INFO	Listening on 127.0.0.1:44059
+1633360319642	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileftMjs3"
+1633360320419	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileftMjs3/search.json.mozlz4", (void 0)))
+1633360321765	Marionette	INFO	Listening on port 33655
+1633360321866	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1633360328316	Marionette	INFO	Stopped listening on port 33655
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633360443429	geckodriver	INFO	Listening on 127.0.0.1:45615
+1633360443436	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileVzcGXK"
+1633360444100	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVzcGXK/search.json.mozlz4", (void 0)))
+1633360445300	Marionette	INFO	Listening on port 45201
+1633360445356	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1633360464713	Marionette	INFO	Stopped listening on port 45201
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633360468409	geckodriver	INFO	Listening on 127.0.0.1:43429
+1633360468416	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilesWPLzT"
+1633360469026	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesWPLzT/search.json.mozlz4", (void 0)))
+1633360470220	Marionette	INFO	Listening on port 45657
+1633360470389	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1633360505899	geckodriver	INFO	Listening on 127.0.0.1:51085
+1633360505906	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileo3NQm2"
+1633360506572	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileo3NQm2/search.json.mozlz4", (void 0)))
+1633360507797	Marionette	INFO	Listening on port 42305
+1633360507825	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1633360552564	geckodriver	INFO	Listening on 127.0.0.1:45687
+1633360552574	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilegLW11S"
+1633360553353	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegLW11S/search.json.mozlz4", (void 0)))
+1633360554629	Marionette	INFO	Listening on port 37727
+1633360554702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1633360604849	geckodriver	INFO	Listening on 127.0.0.1:49137
+1633360604856	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileh15BQf"
+1633360605630	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileh15BQf/search.json.mozlz4", (void 0)))
+1633360606985	Marionette	INFO	Listening on port 33889
+1633360607082	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1633360629829	Marionette	INFO	Stopped listening on port 33889
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633360727318	geckodriver	INFO	Listening on 127.0.0.1:60591
+1633360727327	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileF9poKw"
+1633360728059	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileF9poKw/search.json.mozlz4", (void 0)))
+1633360729376	Marionette	INFO	Listening on port 35227
+1633360729473	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1633360765044	Marionette	INFO	Stopped listening on port 35227
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633361174992	geckodriver	INFO	Listening on 127.0.0.1:42367
+1633361175000	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileCYtznD"
+1633361175837	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCYtznD/search.json.mozlz4", (void 0)))
+1633361177260	Marionette	INFO	Listening on port 46737
+1633361177328	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1633361219586	geckodriver	INFO	Listening on 127.0.0.1:34093
+1633361219592	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileCpu1yp"
+1633361220368	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCpu1yp/search.json.mozlz4", (void 0)))
+1633361221671	Marionette	INFO	Listening on port 42013
+1633361221717	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1633361233000	geckodriver	INFO	Listening on 127.0.0.1:45727
+1633361233006	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileIIfFg5"
+1633361233790	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIIfFg5/search.json.mozlz4", (void 0)))
+1633361235160	Marionette	INFO	Listening on port 35381
+1633361235239	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1633361254236	Marionette	INFO	Stopped listening on port 35381
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633361271216	geckodriver	INFO	Listening on 127.0.0.1:36653
+1633361271223	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileDv9DAd"
+1633361272043	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDv9DAd/search.json.mozlz4", (void 0)))
+1633361273226	Marionette	INFO	Listening on port 38963
+1633361273261	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1633361298799	geckodriver	INFO	Listening on 127.0.0.1:50739
+1633361298806	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileBBuqAF"
+1633361299627	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBBuqAF/search.json.mozlz4", (void 0)))
+1633361301005	Marionette	INFO	Listening on port 38991
+1633361301044	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1633361347540	geckodriver	INFO	Listening on 127.0.0.1:38689
+1633361347551	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileKsgMjh"
+1633361348341	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKsgMjh/search.json.mozlz4", (void 0)))
+1633361349661	Marionette	INFO	Listening on port 42589
+1633361349779	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1633361407859	geckodriver	INFO	Listening on 127.0.0.1:37035
+1633361407865	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileYS9gYI"
+1633361408714	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYS9gYI/search.json.mozlz4", (void 0)))
+1633361410003	Marionette	INFO	Listening on port 34439
+1633361410097	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1633361418710	geckodriver	INFO	Listening on 127.0.0.1:55803
+1633361418718	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileWM3PZ4"
+1633361419543	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWM3PZ4/search.json.mozlz4", (void 0)))
+1633361420857	Marionette	INFO	Listening on port 33361
+1633361420940	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1633361530117	Marionette	INFO	Stopped listening on port 33361
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633361731177	geckodriver	INFO	Listening on 127.0.0.1:33479
+1633361731183	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilewKRcxF"
+1633361731865	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewKRcxF/search.json.mozlz4", (void 0)))
+1633361733091	Marionette	INFO	Listening on port 39569
+1633361733234	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1633361788401	geckodriver	INFO	Listening on 127.0.0.1:37727
+1633361788407	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileG9TjJm"
+1633361789042	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileG9TjJm/search.json.mozlz4", (void 0)))
+1633361790183	Marionette	INFO	Listening on port 33885
+1633361790229	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633361861302	geckodriver	INFO	Listening on 127.0.0.1:38903
+1633361861309	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilejtd2SK"
+1633361861958	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejtd2SK/search.json.mozlz4", (void 0)))
+1633361863187	Marionette	INFO	Listening on port 44601
+1633361863230	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1633361914126	geckodriver	INFO	Listening on 127.0.0.1:40117
+1633361914132	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile4SpE1p"
+1633361914769	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4SpE1p/search.json.mozlz4", (void 0)))
+1633361915988	Marionette	INFO	Listening on port 32809
+1633361916057	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1633362010558	geckodriver	INFO	Listening on 127.0.0.1:60869
+1633362010565	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilexPptxR"
+1633362011183	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexPptxR/search.json.mozlz4", (void 0)))
+1633362012553	Marionette	INFO	Listening on port 36943
+1633362012586	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1633362137184	geckodriver	INFO	Listening on 127.0.0.1:54991
+1633362137189	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileQDc1vn"
+1633362137838	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQDc1vn/search.json.mozlz4", (void 0)))
+1633362139027	Marionette	INFO	Listening on port 43039
+1633362139144	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1633362227478	Marionette	INFO	Stopped listening on port 36943
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633362230352	Marionette	INFO	Stopped listening on port 34439
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633362233114	Marionette	INFO	Stopped listening on port 43039
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633362239873	geckodriver	INFO	Listening on 127.0.0.1:58291
+1633362239877	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileERoQNo"
+1633362240468	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileERoQNo/search.json.mozlz4", (void 0)))
+1633362241770	Marionette	INFO	Listening on port 33401
+1633362241799	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1633362568263	geckodriver	INFO	Listening on 127.0.0.1:46217
+1633362568270	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilenRU2qn"
+1633362569013	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenRU2qn/search.json.mozlz4", (void 0)))
+1633362570307	Marionette	INFO	Listening on port 34801
+1633362570394	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1633362577020	Marionette	INFO	Stopped listening on port 34801
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633362599537	geckodriver	INFO	Listening on 127.0.0.1:39169
+1633362599545	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileo8NeEj"
+1633362600315	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileo8NeEj/search.json.mozlz4", (void 0)))
+1633362601859	Marionette	INFO	Listening on port 42425
+1633362601971	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1633362770059	geckodriver	INFO	Listening on 127.0.0.1:41777
+1633362770065	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilegR4cGY"
+1633362770882	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegR4cGY/search.json.mozlz4", (void 0)))
+1633362772187	Marionette	INFO	Listening on port 45551
+1633362772286	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1633362778862	Marionette	INFO	Stopped listening on port 45551
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633362793941	geckodriver	INFO	Listening on 127.0.0.1:37197
+1633362793949	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile9x6S9r"
+1633362794787	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9x6S9r/search.json.mozlz4", (void 0)))
+1633362796205	Marionette	INFO	Listening on port 41423
+1633362796277	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1633362953199	geckodriver	INFO	Listening on 127.0.0.1:32917
+1633362953206	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileGzNdkX"
+1633362954003	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGzNdkX/search.json.mozlz4", (void 0)))
+1633362955322	Marionette	INFO	Listening on port 44275
+1633362955428	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hub.ucd.ie"
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.4.1/css/bootstrap.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800%7CRoboto+Slab:100,200,300,400 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/paymentfont/1.2.5/css/paymentfont.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/2.4.0/css/flag-icon.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdn.datatables.net/t/bs/dt-1.10.11/datatables.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdn.datatables.net/responsive/2.1.1/css/responsive.dataTables.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.2/css/select2.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.52.2/codemirror.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.52.2/addon/hint/show-hint.min.css without a browsingContextID set
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1633363555790	geckodriver	INFO	Listening on 127.0.0.1:38465
+1633363555794	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileEM1LUu"
+1633363556528	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEM1LUu/search.json.mozlz4", (void 0)))
+1633363557858	Marionette	INFO	Listening on port 41869
+1633363557920	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1633363856078	geckodriver	INFO	Listening on 127.0.0.1:50413
+1633363856082	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileVbeEMM"
+1633363856882	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVbeEMM/search.json.mozlz4", (void 0)))
+1633363858210	Marionette	INFO	Listening on port 37969
+1633363858307	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1633363911305	Marionette	INFO	Stopped listening on port 37969
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633363914677	geckodriver	INFO	Listening on 127.0.0.1:44013
+1633363914682	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileKOSSBt"
+1633363915511	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKOSSBt/search.json.mozlz4", (void 0)))
+1633363916809	Marionette	INFO	Listening on port 39249
+1633363916915	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1633363988430	geckodriver	INFO	Listening on 127.0.0.1:39363
+1633363988434	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofiledeV114"
+1633363989223	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledeV114/search.json.mozlz4", (void 0)))
+1633363990679	Marionette	INFO	Listening on port 44323
+1633363990763	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1633364022789	geckodriver	INFO	Listening on 127.0.0.1:45273
+1633364022794	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileD4B2BV"
+1633364023608	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileD4B2BV/search.json.mozlz4", (void 0)))
+1633364024875	Marionette	INFO	Listening on port 38509
+1633364024978	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1633364051046	Marionette	INFO	Stopped listening on port 38509
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633364052594	geckodriver	INFO	Listening on 127.0.0.1:33209
+1633364052599	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileo6cOat"
+1633364053370	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileo6cOat/search.json.mozlz4", (void 0)))
+1633364054658	Marionette	INFO	Listening on port 42273
+1633364054726	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+
+(firefox:35957): GLib-GObject-CRITICAL **: 17:14:28.530: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:35957): GLib-GObject-CRITICAL **: 17:14:28.530: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:35957): GLib-GObject-CRITICAL **: 17:14:28.531: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:35957): GLib-GObject-WARNING **: 17:14:28.531: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7fdd47b83590' of type 'MaiAtkType139'
+
+(firefox:35957): GLib-GObject-CRITICAL **: 17:14:28.562: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:35957): GLib-GObject-WARNING **: 17:14:28.569: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7fdd5de7f530' of type 'MaiAtkType139'
+
+(firefox:35957): GLib-GObject-WARNING **: 17:14:28.570: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7fdd5de7f5f0' of type 'MaiAtkType139'
+
+(firefox:35957): GLib-GObject-CRITICAL **: 17:14:28.594: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:35957): GLib-GObject-CRITICAL **: 17:14:28.609: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:35957): GLib-GObject-CRITICAL **: 17:14:28.637: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.4.1/css/bootstrap.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800%7CRoboto+Slab:100,200,300,400 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/paymentfont/1.2.5/css/paymentfont.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/2.4.0/css/flag-icon.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdn.datatables.net/t/bs/dt-1.10.11/datatables.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdn.datatables.net/responsive/2.1.1/css/responsive.dataTables.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.2/css/select2.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.52.2/codemirror.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.52.2/addon/hint/show-hint.min.css without a browsingContextID set
+
+(firefox:35957): GLib-GObject-CRITICAL **: 17:14:37.975: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:35957): GLib-GObject-CRITICAL **: 17:14:40.618: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:35957): GLib-GObject-CRITICAL **: 17:14:40.777: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1633364125269	geckodriver	INFO	Listening on 127.0.0.1:57765
+1633364125274	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileDhJk2T"
+1633364126077	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDhJk2T/search.json.mozlz4", (void 0)))
+1633364127583	Marionette	INFO	Listening on port 34161
+1633364127720	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1633364130497	Marionette	INFO	Stopped listening on port 42273
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1633364182987	Marionette	INFO	Stopped listening on port 34161
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633364184561	geckodriver	INFO	Listening on 127.0.0.1:39875
+1633364184565	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilexSsxpn"
+1633364185360	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexSsxpn/search.json.mozlz4", (void 0)))
+1633364186744	Marionette	INFO	Listening on port 35973
+1633364186794	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1633364543499	Marionette	INFO	Stopped listening on port 35973
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1633364546065	Marionette	INFO	Stopped listening on port 44323
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633364549397	geckodriver	INFO	Listening on 127.0.0.1:58115
+1633364549402	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileSofTWw"
+1633364550143	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSofTWw/search.json.mozlz4", (void 0)))
+1633364551454	Marionette	INFO	Listening on port 43441
+1633364551526	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1633364571650	geckodriver	INFO	Listening on 127.0.0.1:45741
+1633364571655	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileK3QDA7"
+1633364572440	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileK3QDA7/search.json.mozlz4", (void 0)))
+1633364573663	Marionette	INFO	Listening on port 32949
+1633364573801	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1633364609974	geckodriver	INFO	Listening on 127.0.0.1:54539
+1633364609979	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileMmqvJA"
+1633364610769	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMmqvJA/search.json.mozlz4", (void 0)))
+1633364612050	Marionette	INFO	Listening on port 43949
+1633364612103	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1633364771361	geckodriver	INFO	Listening on 127.0.0.1:47183
+1633364771366	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofiler7Zuax"
+1633364772132	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiler7Zuax/search.json.mozlz4", (void 0)))
+1633364773458	Marionette	INFO	Listening on port 44879
+1633364773491	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1633365490067	geckodriver	INFO	Listening on 127.0.0.1:56737
+1633365490072	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilen1Kihu"
+1633365490846	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilen1Kihu/search.json.mozlz4", (void 0)))
+1633365492418	Marionette	INFO	Listening on port 38465
+1633365492494	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1633365554481	geckodriver	INFO	Listening on 127.0.0.1:54689
+1633365554486	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileteas3k"
+1633365555303	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileteas3k/search.json.mozlz4", (void 0)))
+1633365556598	Marionette	INFO	Listening on port 33047
+1633365556718	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1633365949931	geckodriver	INFO	Listening on 127.0.0.1:46701
+1633365949936	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileieLf8M"
+1633365950738	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileieLf8M/search.json.mozlz4", (void 0)))
+1633365952159	Marionette	INFO	Listening on port 35001
+1633365952262	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1633365977552	geckodriver	INFO	Listening on 127.0.0.1:42303
+1633365977556	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileUyUwoC"
+1633365978369	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUyUwoC/search.json.mozlz4", (void 0)))
+1633365979701	Marionette	INFO	Listening on port 43527
+1633365979785	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.4.1/css/bootstrap.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800%7CRoboto+Slab:100,200,300,400 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/paymentfont/1.2.5/css/paymentfont.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/2.4.0/css/flag-icon.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdn.datatables.net/t/bs/dt-1.10.11/datatables.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdn.datatables.net/responsive/2.1.1/css/responsive.dataTables.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.2/css/select2.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.52.2/codemirror.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.52.2/addon/hint/show-hint.min.css without a browsingContextID set
+1633366132832	geckodriver	INFO	Listening on 127.0.0.1:33001
+1633366132837	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileGPnCsn"
+1633366133638	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGPnCsn/search.json.mozlz4", (void 0)))
+1633366134876	Marionette	INFO	Listening on port 41157
+1633366134969	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1633366158841	geckodriver	INFO	Listening on 127.0.0.1:46995
+1633366158846	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile7IWcxq"
+1633366159597	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7IWcxq/search.json.mozlz4", (void 0)))
+1633366161028	Marionette	INFO	Listening on port 39079
+1633366161075	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1633366187612	geckodriver	INFO	Listening on 127.0.0.1:59385
+1633366187617	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilezkNMds"
+1633366188393	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezkNMds/search.json.mozlz4", (void 0)))
+1633366189682	Marionette	INFO	Listening on port 38761
+1633366189750	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: https://cookie-cdn.cookiepro.com/scripttemplates/6.14.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1633366241207	geckodriver	INFO	Listening on 127.0.0.1:54735
+1633366241211	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilefj0YjK"
+1633366241969	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefj0YjK/search.json.mozlz4", (void 0)))
+1633366243363	Marionette	INFO	Listening on port 43725
+1633366243442	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1633366697806	geckodriver	INFO	Listening on 127.0.0.1:46231
+1633366697810	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilevM4q1A"
+1633366698577	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevM4q1A/search.json.mozlz4", (void 0)))
+1633366699974	Marionette	INFO	Listening on port 43863
+1633366700040	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1633366718774	geckodriver	INFO	Listening on 127.0.0.1:59185
+1633366718779	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilet3ycky"
+1633366719517	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilet3ycky/search.json.mozlz4", (void 0)))
+1633366720844	Marionette	INFO	Listening on port 36237
+1633366720903	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1633366907763	geckodriver	INFO	Listening on 127.0.0.1:36145
+1633366907767	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileAbOaJz"
+1633366908575	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAbOaJz/search.json.mozlz4", (void 0)))
+1633366910189	Marionette	INFO	Listening on port 38523
+1633366910297	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1633367300518	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1633367313596	geckodriver	INFO	Listening on 127.0.0.1:48789
+1633367313601	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilePnwqnK"
+1633367314361	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePnwqnK/search.json.mozlz4", (void 0)))
+1633367315789	Marionette	INFO	Listening on port 39261
+1633367315824	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1633367323659	Marionette	INFO	Stopped listening on port 43527
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633367324819	Marionette	INFO	Stopped listening on port 43863
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633367325560	Marionette	INFO	Stopped listening on port 38523
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1633368481497	geckodriver	INFO	Listening on 127.0.0.1:51297
+1633368481501	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileABfolQ"
+1633368482290	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileABfolQ/search.json.mozlz4", (void 0)))
+1633368483607	Marionette	INFO	Listening on port 37101
+1633368483739	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: https://cookie-cdn.cookiepro.com/scripttemplates/6.14.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+1633370657402	Marionette	INFO	Stopped listening on port 37101
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
