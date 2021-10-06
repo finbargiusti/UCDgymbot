@@ -1088,3 +1088,344 @@ JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1633431555844	geckodriver	INFO	Listening on 127.0.0.1:44007
+1633431555848	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileKgWp0g"
+1633431556621	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKgWp0g/search.json.mozlz4", (void 0)))
+1633431557872	Marionette	INFO	Listening on port 43341
+1633431557977	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1633432905822	geckodriver	INFO	Listening on 127.0.0.1:47763
+1633432905827	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilePWS4Ol"
+1633432906595	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePWS4Ol/search.json.mozlz4", (void 0)))
+1633432907876	Marionette	INFO	Listening on port 33443
+1633432907956	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1633432928249	geckodriver	INFO	Listening on 127.0.0.1:43191
+1633432928253	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile28iWlI"
+1633432929044	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile28iWlI/search.json.mozlz4", (void 0)))
+1633432930475	Marionette	INFO	Listening on port 45155
+1633432930583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1633433150780	geckodriver	INFO	Listening on 127.0.0.1:50135
+1633433150784	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileQ3daDu"
+1633433151582	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQ3daDu/search.json.mozlz4", (void 0)))
+1633433152893	Marionette	INFO	Listening on port 42405
+1633433153016	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1633433411659	geckodriver	INFO	Listening on 127.0.0.1:58055
+1633433411663	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilePx2toZ"
+1633433412438	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePx2toZ/search.json.mozlz4", (void 0)))
+1633433413884	Marionette	INFO	Listening on port 36485
+1633433414022	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1633434324282	Marionette	INFO	Stopped listening on port 36485
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633506807440	geckodriver	INFO	Listening on 127.0.0.1:33835
+1633506807445	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofiledL8RVk"
+1633506808258	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledL8RVk/search.json.mozlz4", (void 0)))
+1633506809540	Marionette	INFO	Listening on port 45655
+1633506809588	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1633506831335	geckodriver	INFO	Listening on 127.0.0.1:42905
+1633506831340	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileS4gm5Z"
+1633506832070	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileS4gm5Z/search.json.mozlz4", (void 0)))
+1633506833262	Marionette	INFO	Listening on port 37273
+1633506833361	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1633506857371	geckodriver	INFO	Listening on 127.0.0.1:35269
+1633506857377	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileAVFEv8"
+1633506858115	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAVFEv8/search.json.mozlz4", (void 0)))
+1633506859431	Marionette	INFO	Listening on port 39025
+1633506859497	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633506859765	Marionette	INFO	Stopped listening on port 37273
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1633506899720	geckodriver	INFO	Listening on 127.0.0.1:33439
+1633506899726	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile7ccHzJ"
+1633506900549	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7ccHzJ/search.json.mozlz4", (void 0)))
+1633506902086	Marionette	INFO	Listening on port 43439
+1633506902151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633506902716	Marionette	INFO	Stopped listening on port 39025
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1633507006259	Marionette	INFO	Stopped listening on port 43439
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633507008403	geckodriver	INFO	Listening on 127.0.0.1:50231
+1633507008407	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilew1q5h2"
+1633507009220	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilew1q5h2/search.json.mozlz4", (void 0)))
+1633507010654	Marionette	INFO	Listening on port 45433
+1633507010735	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+console.error: "Tried to send a 'target-destroyed-form' event on an already destroyed actor 'watcher'"
+1633507207568	geckodriver	INFO	Listening on 127.0.0.1:43319
+1633507207574	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile6um674"
+1633507208354	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6um674/search.json.mozlz4", (void 0)))
+1633507210114	Marionette	INFO	Listening on port 37723
+1633507210198	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1633507218956	Marionette	INFO	Stopped listening on port 45433
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://hub.ucd.ie"
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.4.1/css/bootstrap.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800%7CRoboto+Slab:100,200,300,400 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/paymentfont/1.2.5/css/paymentfont.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/2.4.0/css/flag-icon.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdn.datatables.net/t/bs/dt-1.10.11/datatables.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdn.datatables.net/responsive/2.1.1/css/responsive.dataTables.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.2/css/select2.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.52.2/codemirror.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.52.2/addon/hint/show-hint.min.css without a browsingContextID set
+1633507244510	Marionette	INFO	Stopped listening on port 37723
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633507246195	geckodriver	INFO	Listening on 127.0.0.1:40643
+1633507246200	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileyHrltQ"
+1633507247001	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyHrltQ/search.json.mozlz4", (void 0)))
+1633507248297	Marionette	INFO	Listening on port 42823
+1633507248328	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.4.1/css/bootstrap.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800%7CRoboto+Slab:100,200,300,400 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/paymentfont/1.2.5/css/paymentfont.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/2.4.0/css/flag-icon.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdn.datatables.net/t/bs/dt-1.10.11/datatables.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdn.datatables.net/responsive/2.1.1/css/responsive.dataTables.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.2/css/select2.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.52.2/codemirror.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.52.2/addon/hint/show-hint.min.css without a browsingContextID set
+1633507354484	Marionette	INFO	Stopped listening on port 42823
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633507356821	geckodriver	INFO	Listening on 127.0.0.1:46499
+1633507356828	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile9ihoqg"
+1633507357668	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9ihoqg/search.json.mozlz4", (void 0)))
+1633507359129	Marionette	INFO	Listening on port 33365
+1633507359164	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1633507408437	geckodriver	INFO	Listening on 127.0.0.1:44947
+1633507408444	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileO16AMq"
+1633507409224	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileO16AMq/search.json.mozlz4", (void 0)))
+1633507410599	Marionette	INFO	Listening on port 38839
+1633507410679	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1633507452209	Marionette	INFO	Stopped listening on port 38839
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633507454148	Marionette	INFO	Stopped listening on port 33365
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633507455518	geckodriver	INFO	Listening on 127.0.0.1:47509
+1633507455524	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile1UrwF9"
+1633507456320	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1UrwF9/search.json.mozlz4", (void 0)))
+1633507457696	Marionette	INFO	Listening on port 44155
+1633507457750	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1633507554610	geckodriver	INFO	Listening on 127.0.0.1:45875
+1633507554616	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile06OYed"
+1633507555457	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile06OYed/search.json.mozlz4", (void 0)))
+1633507556937	Marionette	INFO	Listening on port 46745
+1633507557037	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1633507578898	geckodriver	INFO	Listening on 127.0.0.1:47599
+1633507578904	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileTP0Yfu"
+1633507579757	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTP0Yfu/search.json.mozlz4", (void 0)))
+1633507581261	Marionette	INFO	Listening on port 39295
+1633507581338	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BPTeJxusP8cOnE_s5L3ABe2tIpKd1NVDJBlhKS7pwaI.js line 1 > eval line 3204 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BPTeJxusP8cOnE_s5L3ABe2tIpKd1NVDJBlhKS7pwaI.js line 1 > eval line 6575 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633507869249	geckodriver	INFO	Listening on 127.0.0.1:41171
+1633507869255	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilekodGT6"
+1633507870132	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekodGT6/search.json.mozlz4", (void 0)))
+1633507871559	Marionette	INFO	Listening on port 42093
+1633507871602	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633508100573	geckodriver	INFO	Listening on 127.0.0.1:34589
+1633508100579	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileRlkZyI"
+1633508101449	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRlkZyI/search.json.mozlz4", (void 0)))
+1633508102773	Marionette	INFO	Listening on port 41067
+1633508102805	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1633508106423	Marionette	INFO	Stopped listening on port 42093
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.4.1/css/bootstrap.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800%7CRoboto+Slab:100,200,300,400 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/paymentfont/1.2.5/css/paymentfont.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/2.4.0/css/flag-icon.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdn.datatables.net/t/bs/dt-1.10.11/datatables.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdn.datatables.net/responsive/2.1.1/css/responsive.dataTables.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.2/css/select2.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.52.2/codemirror.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.52.2/addon/hint/show-hint.min.css without a browsingContextID set
+1633508312518	geckodriver	INFO	Listening on 127.0.0.1:43083
+1633508312523	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileIzBjqd"
+1633508313408	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIzBjqd/search.json.mozlz4", (void 0)))
+1633508314832	Marionette	INFO	Listening on port 33623
+1633508314953	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1633508315702	Marionette	INFO	Stopped listening on port 41067
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1633508435480	Marionette	INFO	Stopped listening on port 33623
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript warning: https://cdn.js7k.com/rq/iv/inside.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BPTeJxusP8cOnE_s5L3ABe2tIpKd1NVDJBlhKS7pwaI.js line 1 > eval line 5059 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1633508523358	geckodriver	INFO	Listening on 127.0.0.1:51375
+1633508523363	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileOrpzJd"
+1633508524226	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOrpzJd/search.json.mozlz4", (void 0)))
+1633508525582	Marionette	INFO	Listening on port 40073
+1633508525710	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.4.1/css/bootstrap.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800%7CRoboto+Slab:100,200,300,400 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/paymentfont/1.2.5/css/paymentfont.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/2.4.0/css/flag-icon.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdn.datatables.net/t/bs/dt-1.10.11/datatables.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdn.datatables.net/responsive/2.1.1/css/responsive.dataTables.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.2/css/select2.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.52.2/codemirror.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.52.2/addon/hint/show-hint.min.css without a browsingContextID set
+1633508602845	Marionette	INFO	Stopped listening on port 40073
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633508606569	Marionette	INFO	Stopped listening on port 46745
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript warning: https://cdn.js7k.com/rq/iv/inside-20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/rq/iv/inside.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633508608855	Marionette	INFO	Stopped listening on port 39295
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633508611898	Marionette	INFO	Stopped listening on port 44155
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633508616155	geckodriver	INFO	Listening on 127.0.0.1:37169
+1633508616160	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileQl6UwA"
+1633508617014	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQl6UwA/search.json.mozlz4", (void 0)))
+1633508618363	Marionette	INFO	Listening on port 33961
+1633508618389	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://hub.ucd.ie/infohub3/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1633508677832	Marionette	INFO	Stopped listening on port 33961
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

@@ -1,6 +1,8 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 import schedule
 import time
 
@@ -13,7 +15,7 @@ assert "Gym" in driver.title
 reattempting = False
 
 
-def setBooking(gymtime):
+def setBooking(gymtime, user):
     global reattempting
 
     driver.refresh()
@@ -30,7 +32,8 @@ def setBooking(gymtime):
                 filtertimes.append(timeslot)
 
     try:
-        filtertimes[0].find_element_by_tag_name("a").click()
+        driver.get(filtertimes[0].find_element_by_tag_name(
+            "a").get_attribute("href"))
     except:
         print("Missed it.. trying to book later")
         if not reattempting:
@@ -41,34 +44,33 @@ def setBooking(gymtime):
 
     schedule.clear(gymtime)
 
-    bar = driver.find_element_by_name("MEMBER_NO")
-    try:
-        blocker = driver.find_element_by_id("onetrust-consent-sdk")
-        driver.execute_script("arguments[0].style.display='none'", blocker)
-    except:
-        print("cookies not required")
+    bar = WebDriverWait(driver, 8).until(
+        EC.presence_of_element_located((By.NAME, "MEMBER_NO")))
 
-    bar.send_keys("21372821")
+    url = driver.current_url
+
+    bar.send_keys(user)
     bar.send_keys(Keys.RETURN)
 
-    time.sleep(1.5)
+    WebDriverWait(driver, 7).until(EC.url_changes(url))
 
-    try:
-        blocker = driver.find_element_by_id("onetrust-consent-sdk")
-        driver.execute_script("arguments[0].style.display='none'", blocker)
-    except:
-        print("cookies not required")
+    # try:
+    #     driver.execute_script(
+    #         "arguments[0].style.display='none'", driver.find_element_by_id("onetrust-consent-sdk"))
+    # except:
+    #     allgood = True
 
-    confirm = driver.find_element_by_class_name("menubutton")
+    confirm = WebDriverWait(driver, 8).until(
+        EC.presence_of_element_located((By.CLASS_NAME, "menubutton")))
 
-    confirm.click()
+    driver.get(confirm.get_attribute("href"))
 
     time.sleep(2)
 
 
-schedule.every().monday.at("17:47").do(setBooking, "20:45")
-schedule.every().tuesday.at("15:45").do(setBooking, "18:45")
-setBooking("20:45")
+schedule.every().tuesday.at("12:45").do(
+    setBooking, gymtime="15:45", user="21372821")
+setBooking("09:30", "21372821")
 
 while True:
     schedule.run_pending()
